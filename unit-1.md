@@ -2,7 +2,7 @@
 
 ## 1.1
 
-Here's a basic Java program called "MyClass.java":
+Here's a basic Java program called "Hello.java":
 
 ```java
 // Single line comment
@@ -12,7 +12,7 @@ Here's a basic Java program called "MyClass.java":
  * comment
  */
 
-public class MyClass { // Class must be same name as file (MyClass.java)
+public class Hello { // Class must be same name as file (MyClass.java)
     
     public static void main(String[] args) { // Main method, program runs here
         
