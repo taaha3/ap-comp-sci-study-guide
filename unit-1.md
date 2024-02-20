@@ -31,7 +31,8 @@ Programs can have 3 kinds of errors:
 
 | Type | Example | Cause | When? |
 | ---- | ------- | ----- | ----- |
-| Syntax/Compiler Error | `System.out.println("hi"**]**` |
+| Syntax/Compiler Error | `System.out.println("hi"];` | Code typed incorrectly | Compile time |
+|
 
 
 
