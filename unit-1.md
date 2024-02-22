@@ -1,5 +1,7 @@
 # AP Computer Science A Study Guide
 
+
+
 ## Basic Program
 
 ```java
@@ -44,7 +46,7 @@ Primitive (built-in, no methods):
 | `double` | `10.1234` |
 | `boolean` | `true` |
 
-Non-primitive (generally user made, methods):
+Non-primitive (generally user made, have methods):
 
 | Identifier | Example |
 | ---------- | ------- |
