@@ -36,10 +36,11 @@ public class Hello { // Class must be same name as file (Hello.java)
 | Logic Error | Using + instead of - | Better word would be mistake, you did something wrong in your code so the result is wrong | Usually after run and compared actual output to anticipated output |
 
 
-### Data Types 
+### Primitive Data Types (built-in and no methods)
 
-
-
-
+| Identifier | Example |
+| `int` | `10` |
+| `double` | `10.1234` |
+| `boolean` | `true` |
 
 
