@@ -1,8 +1,4 @@
-# Unit 1
-
-## 1.1
-
-### Basic Program
+# Basic Program
 
 ```java
 // Single line comment
@@ -27,7 +23,7 @@ public class Hello { // Class must be same name as file (Hello.java)
     
 ```
 
-### Errors
+# Errors
 
 | Type | Example | Cause | Happens when? |
 | ---- | ------- | ---------- | ---------- |
@@ -36,7 +32,7 @@ public class Hello { // Class must be same name as file (Hello.java)
 | Logic Error | Using + instead of - | Better word would be mistake, you did something wrong in your code so the result is wrong | Usually after run and compared actual output to anticipated output |
 
 
-### Primitive Data Types (built-in and no methods)
+# Primitive Data Types (built-in, no methods)
 
 | Identifier | Example |
 | ---------- | ------- |
@@ -45,3 +41,8 @@ public class Hello { // Class must be same name as file (Hello.java)
 | `boolean` | `true` |
 
 
+# Non-Primitive Data Types (generally user-made, methods)
+
+| Identifier | Example |
+| ---------- | ------- |
+| `String` | `"Hello hi"` |
