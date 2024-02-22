@@ -55,5 +55,5 @@ Non-primitive (generally user made, have methods):
 
 ## Variables
 
-Definition: A name given to a memory location that holds a specified type of value.
+**Definition:** A name given to a memory location that holds a specified type of value.
 
