@@ -39,6 +39,7 @@ public class Hello { // Class must be same name as file (Hello.java)
 ### Primitive Data Types (built-in and no methods)
 
 | Identifier | Example |
+| ---------- | ------- |
 | `int` | `10` |
 | `double` | `10.1234` |
 | `boolean` | `true` |
