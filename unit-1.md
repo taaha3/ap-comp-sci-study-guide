@@ -32,7 +32,8 @@ Programs can have 3 kinds of errors:
 | Type | Example | Cause | When? |
 | ---- | ------- | ----- | ----- |
 | Syntax/Compiler Error | `System.out.println("hi"];` | Code typed incorrectly | Compile time |
-|
+| Exception | Dividing by 0 | Something problematic happens as the code runs making it stop | Run time |
+| Logic Error | + instead of - | Better word would be mistake, you did something wrong in your code so the result was wrong | Usually after run and compared actual output to anticipated output |
 
 
 
