@@ -2,7 +2,7 @@
 
 ## 1.1
 
-Here's a basic Java program called "Hello.java":
+### Basic Program
 
 ```java
 // Single line comment
@@ -27,13 +27,21 @@ public class Hello { // Class must be same name as file (Hello.java)
     
 ```
 
+### Errors
+
 Programs can have 3 kinds of errors:
 
 | Type | Example | Cause | When? |
 | ---- | ------- | ---------- | ---------- |
 | Syntax/Compiler Error | `System.out.println("hi"];` | Code typed incorrectly | Compile time |
 | Exception | Dividing by 0 | Something problematic/impossible happens as the code runs making it stop | Run time |
-| Logic Error | Using + instead of - | Better word would be mistake, you did something wrong in your code so the result was wrong | Usually after run and compared actual output to anticipated output |
+| Logic Error | Using + instead of - | Better word would be mistake, you did something wrong in your code so the result is wrong | Usually after run and compared actual output to anticipated output |
+
+
+### Data Types 
+
+
+
 
 
 
