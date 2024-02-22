@@ -51,3 +51,9 @@ Non-primitive (generally user made, have methods):
 | Identifier | Example |
 | ---------- | ------- |
 | `String` | `"Hello hi"` |
+
+
+## Variables
+
+Definition: A name given to a memory location that holds a specified type of value.
+
