@@ -29,9 +29,7 @@ public class Hello { // Class must be same name as file (Hello.java)
 
 ### Errors
 
-Programs can have 3 kinds of errors:
-
-| Type | Example | Cause | When? |
+| Type | Example | Cause | Happens when? |
 | ---- | ------- | ---------- | ---------- |
 | Syntax/Compiler Error | `System.out.println("hi"];` | Code typed incorrectly | Compile time |
 | Exception | Dividing by 0 | Something problematic/impossible happens as the code runs making it stop | Run time |
