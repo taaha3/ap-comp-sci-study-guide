@@ -55,5 +55,15 @@ Non-primitive (generally user made, have methods):
 
 ## Variables
 
-**Definition:** A name given to a memory location that holds a specified type of value.
+- Definition: A name given to a memory location that holds a specified type of value
+- Naming rules: Can have letters, numbers, and underscores. Can't start with number. Can't use reserved keywords.
+- Use `final` keyword before type to make variable non-reassignable (constant, use BIG_ANGRY_CASE)
+
+
+
+
+
+
+
+
 
