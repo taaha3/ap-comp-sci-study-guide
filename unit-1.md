@@ -44,7 +44,7 @@ Primitive (built-in, no methods):
 | ---------- | ------- |
 | `int` | `10` |
 | `double` | `10.1234` |
-| `boolean` | `true` |
+| `bool` | `true` |
 
 Non-primitive (generally user made, have methods):
 
